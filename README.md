@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> Malware Traffic Analysis (AlgoExpert)</b>
- - <b> Wireshark Anomaly detection (AlgoExpert)</b>
+- <b> Network Enumration with Nmap</b>
+ - <b> Wireshark Anomaly detection </b>
 
 <h2> Certifications</h2>
 
