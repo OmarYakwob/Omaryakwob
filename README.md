@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Network Enumration with Nmap</b>
- - <b> Wireshark Anomaly detection </b>
+ - <b> Cyber Defense </b>
 
 <h2> Certifications</h2>
 
